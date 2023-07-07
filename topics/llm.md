@@ -1,8 +1,8 @@
-Large Language Model (LLM)
+# Large Language Model (LLM)
 
 ## Timeline of LLMs
 
-![LLMs_timeline](assets/LLMs-0623-final.png "made by RUC AI BOX")
+![LLMs_timeline](assets/LLMs-0623-final.png)
 
 ## List of LLMs
 
@@ -12,16 +12,16 @@ Large Language Model (LLM)
 
 ### Resources of LLMs
 
-### Pre-training
+###  Pre-training
 
 ### Adaptation Tuning
 
 ### Utilization
 
-- In-Context Learning (ICL)
+#### In-Context Learning (ICL)
 
-- Chain-of-Thought Reasoning (CoT)
+#### Chain-of-Thought Reasoning (CoT)
 
-- Planning for Complex Task Solving
+#### Planning for Complex Task Solving
   
-  ### Capacity Evaluation
+### Capacity Evaluation

@@ -2,7 +2,7 @@
 
 Topics:
 
-- [Natural Language Processing]
+- Natural Language Processing
   - [Large Language Model](topics/llm.md)
 
 ## Recent random papers:
