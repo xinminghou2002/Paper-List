@@ -33,9 +33,9 @@ You can use this directory to navigate to specific sections in your markdown tex
 
 ## Utilization
 
-### Ability: In-Context Learning (ICL)
+### Ability: ICL
 
-#### Form for reasoning: Chain-of-Thought Reasoning (CoT)
+#### Form for reasoning: CoT
 
 ### Tasks: Planning for Complex Task Solving
 
