@@ -8,9 +8,7 @@
   - [Adaptation Tuning](#adaptation-tuning)
   - [Utilization](#utilization)
   - [Ability: ICL](#ability-icl)
-  - [Form for reasoning: CoT](#form-for-reasoning-cot)
   - [Tasks: Planning for Complex Task Solving](#tasks-planning-for-complex-task-solving)
-      - [Programming](#programming)
   - [Capacity Evaluation](#capacity-evaluation)
 
 You can use this directory to navigate to specific sections in your markdown text. Each link corresponds to the corresponding heading or subheading.
@@ -35,11 +33,8 @@ You can use this directory to navigate to specific sections in your markdown tex
 
 ### Ability: ICL
 
-#### Form for reasoning: CoT
-
 ### Tasks: Planning for Complex Task Solving
 
-#### Programming
 
 - 2023-04-11 Teaching Large Language Models to Self-Debug [[arXiv](http://arxiv.org/abs/2304.05128)]
 
