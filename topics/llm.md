@@ -7,9 +7,9 @@
   - [Pre-training](#pre-training)
   - [Adaptation Tuning](#adaptation-tuning)
   - [Utilization](#utilization)
-    - [Ability: In-Context Learning (ICL)](#ability:-in-context-learning-(icl))
-      - [Form for reasoning: Chain-of-Thought Reasoning (CoT)](#form-for-reasoning:-chain-of-thought-reasoning-(cot))
-    - [Tasks: Planning for Complex Task Solving](#tasks:-planning-for-complex-task-solving)
+    - [Ability: In-Context Learning (ICL)](#ability-in-context-learning-(icl))
+      - [Form for reasoning: Chain-of-Thought Reasoning (CoT)](#form-for-reasoning-chain-of-thought-reasoning-(cot))
+    - [Tasks: Planning for Complex Task Solving](#tasks-planning-for-complex-task-solving)
       - [Programming](#programming)
   - [Capacity Evaluation](#capacity-evaluation)
 
@@ -37,7 +37,7 @@ You can use this directory to navigate to specific sections in your markdown tex
 
 #### Form for reasoning: Chain-of-Thought Reasoning (CoT)
 
-### Tasks: Planning for Complex Task Solving
+### Planning for Complex Task Solving
 
 #### Programming
 
@@ -46,5 +46,3 @@ You can use this directory to navigate to specific sections in your markdown tex
 - 2023-06-22 Demystifying GPT Self-Repair for Code Generation [[arXiv](http://arxiv.org/abs/2306.09896)]
 
 ## Capacity Evaluation
-
-
